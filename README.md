@@ -45,10 +45,42 @@ project/
 │   └── analytics-dashboard.png
 └── README.md
 ```
+## 📸 Project Screenshots
+
+### 🏠 Chatbot Home (Light Theme)
+
+![Chatbot Home](screenshots/chatbot-light.png)
+
+---
+
+### 🌙 Chatbot Home (Dark Theme)
+
+![Chatbot Dark](screenshots/chatbot-dark.png)
+
+---
+
+### 💬 AI Chat Conversation
+
+![AI Chat Conversation](screenshots/conversation.png)
+
+---
+
+### 📝 Internship Registration Form
+
+![Internship Form](screenshots/internship-form.png)
+
+---
+
+### 👨‍💼 Admin Panel
+
+![Admin Panel](screenshots/admin-panel.png)
+
+---
 
 ### 📊 Analytics Dashboard
 
-![Analytics Dashboard](screenshot/analytics-dashboard.png)
+![Analytics Dashboard](screenshots/analytics-dashboard.png)
+
 ## Features
 
 1. **AI Chat Assistant**: Provides answers to visitor queries based strictly on the uploaded knowledge base context. Uses Gemini 2.5 Flash.
