@@ -36,7 +36,7 @@ project/
 │   └── package.json
 ├── knowledge_base/
 │   └── nayepankh_info.txt
-├── screenshots/
+├── screenshot/
 │   ├── chatbot-light.png
 │   ├── chatbot-dark.png
 │   ├── conversation.png
