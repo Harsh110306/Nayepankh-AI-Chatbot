@@ -5,6 +5,9 @@ A production-ready AI chatbot web application designed for NayePankh Foundation.
 ## Project Structure
 
 ```text
+## 📂 Project Structure
+
+```text
 project/
 ├── backend/
 │   ├── app/
@@ -17,7 +20,7 @@ project/
 │   │   ├── chunks.json
 │   │   └── index.faiss
 │   ├── requirements.txt
-│   └── venv/
+│   └── .env.example
 ├── database/
 │   └── nayepankh.db
 ├── frontend/
@@ -33,7 +36,15 @@ project/
 │   └── package.json
 ├── knowledge_base/
 │   └── nayepankh_info.txt
+├── screenshot/
+│   ├── chatbot-light.png
+│   ├── chatbot-dark.png
+│   ├── conversation.png
+│   ├── internship-form.png
+│   ├── admin-panel.png
+│   └── analytics-dashboard.png
 └── README.md
+```
 ```
 ## 📸 Project Screenshots
 
