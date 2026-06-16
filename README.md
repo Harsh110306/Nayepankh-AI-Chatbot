@@ -35,7 +35,41 @@ project/
 │   └── nayepankh_info.txt
 └── README.md
 ```
+## 📸 Project Screenshots
 
+### 🏠 Chatbot Home (Light Theme)
+
+![Chatbot Home](screenshot/chatbot-light.png)
+
+---
+
+### 🌙 Chatbot Home (Dark Theme)
+
+![Chatbot Dark](screenshot/chatbot-dark.png)
+
+---
+
+### 💬 AI Chat Conversation
+
+![AI Chat Conversation](screenshot/conversation.png)
+
+---
+
+### 📝 Internship Registration Form
+
+![Internship Form](screenshot/internship-form.png)
+
+---
+
+### 👨‍💼 Admin Panel
+
+![Admin Panel](screenshot/admin-panel.png)
+
+---
+
+### 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshot/analytics-dashboard.png)
 ## Features
 
 1. **AI Chat Assistant**: Provides answers to visitor queries based strictly on the uploaded knowledge base context. Uses Gemini 2.5 Flash.
