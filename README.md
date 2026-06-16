@@ -49,37 +49,37 @@ project/
 
 ### 🏠 Chatbot Home (Light Theme)
 
-![Chatbot Home](screenshots/chatbot-light.png)
+![Chatbot Home](screenshot/chatbot-light.png)
 
 ---
 
 ### 🌙 Chatbot Home (Dark Theme)
 
-![Chatbot Dark](screenshots/chatbot-dark.png)
+![Chatbot Dark](screenshot/chatbot-dark.png)
 
 ---
 
 ### 💬 AI Chat Conversation
 
-![AI Chat Conversation](screenshots/conversation.png)
+![AI Chat Conversation](screenshot/conversation.png)
 
 ---
 
 ### 📝 Internship Registration Form
 
-![Internship Form](screenshots/internship-form.png)
+![Internship Form](screenshot/internship-form.png)
 
 ---
 
 ### 👨‍💼 Admin Panel
 
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](screenshot/admin-panel.png)
 
 ---
 
 ### 📊 Analytics Dashboard
 
-![Analytics Dashboard](screenshots/analytics-dashboard.png)
+![Analytics Dashboard](screenshot/analytics-dashboard.png)
 
 ## Features
 
