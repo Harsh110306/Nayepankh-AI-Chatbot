@@ -161,12 +161,6 @@ If you are on Windows and have already installed the backend and frontend depend
 
 ## Sharing the Project & Troubleshooting
 
-### Important Note on Portability
-Python virtual environments (`venv/` inside `backend/`) and node packages (`node_modules/` inside `frontend/`) are **device-specific and contain absolute path dependencies**. 
-When sharing this project (e.g. zipping it):
-1. **Do not include the `venv/` or `node_modules/` folders** in the zip file.
-2. The recipient must set up their own virtual environment and install packages fresh on their device.
-
 ### "Fatal error in launcher" when running commands
 If a recipient encounters a `Fatal error in launcher: Unable to create process...` error when attempting to run backend commands, it means they are using a copied `venv` folder.
 To resolve this:
